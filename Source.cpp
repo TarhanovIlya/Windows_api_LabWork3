@@ -4,9 +4,6 @@
 //Marker start index from 1, not from 0
 
 
-											// there is a problem related to >3 markers. Possibly connected with idea of changing multiple 
-											// HANDLE* Ev_MARKERS_STARTED_ARRAY parts to pointers to single object AlwaysSignaledThread
-
 //static param
 int ArraySize = 0;
 int* Array;
